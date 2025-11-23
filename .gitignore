@@ -2,3 +2,4 @@ ai
 .env
 .vscode
 __pycache__
+chromedriver.exe
